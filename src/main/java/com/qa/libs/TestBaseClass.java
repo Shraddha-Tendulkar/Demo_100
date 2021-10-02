@@ -2,9 +2,8 @@ package com.qa.libs;
 
 public class TestBaseClass {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void testbaseclass() {
+		
+		System.out.println("Test base");
 	}
-
 }
